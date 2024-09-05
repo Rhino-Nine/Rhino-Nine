@@ -33,7 +33,6 @@
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -41,7 +40,6 @@
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![NPM](https://img.shields.io/badge/-Npm-000?&logo=Npm)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -57,9 +55,9 @@
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
 ![Neovim](https://img.shields.io/badge/-Neovim-000?&logo=Neovim)
+![Hyprland](https://img.shields.io/badge/-Hyprland-000?&logo=Hyprland)
 ![Qutebrowser](https://img.shields.io/badge/-Qutebrowser-000?&logo=Qutebrowser)
 ![Ncmpcpp](https://img.shields.io/badge/-Ncmpcpp-000?&logo=Ncmpcpp)
-![Hyprland](https://img.shields.io/badge/-Hyprland-000?&logo=Hyprland)
 ![Foot](https://img.shields.io/badge/-Foot-000?&logo=Foot)
 ![Fish](https://img.shields.io/badge/-Fish-000?&logo=Fish)
 ![Yazi](https://img.shields.io/badge/-Yazi-000?&logo=Yazi)
@@ -67,5 +65,4 @@
 ![Mpv](https://img.shields.io/badge/-Mpv-000?&logo=Mpv)
 ![Neomutt](https://img.shields.io/badge/-Neomutt-000?&logo=Neomutt)
 ![Newsboat](https://img.shields.io/badge/-Newsboat-000?&logo=Newsboat)
-
 ---
