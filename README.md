@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.328888.xyz/2023/03/12/vbwSH.gif" alt="vbwSH.gif" border="0">
+  <!--<img src="https://i.328888.xyz/2023/03/12/vbwSH.gif" alt="vbwSH.gif" border="0">-->
   
 </div>
 <div id="badges" align="center">
@@ -23,9 +23,9 @@
   GREETINGS, TRAVELLER
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<p align="center">
-<img src="https://i.328888.xyz/2023/03/12/vbWX5.gif" alt="vbWX5.gif" border="0"> 
-</p>
+<!--<p align="center">-->
+<!--<img src="https://i.328888.xyz/2023/03/12/vbWX5.gif" alt="vbWX5.gif" border="0"> -->
+<!--</p>-->
 
 --- 
 
